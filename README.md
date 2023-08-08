@@ -1,11 +1,10 @@
-### Hi there 👋
-I'm a student.
-Have been building computers as a sidekick job starting from 2014. Since then I thrive to ﬁnd my place as Sysadmin/DevOps. I have basic knowledge of DevOps tools, such as Jenkins, VMWare Workstation, Vagrant, nginx, MySql.
-
-
-
-
-
+### Hi there, I'm gidra 👋
+With over 5 months of DevOps practices, I have used GCP and Azure as my primary cloud environments for project deployment.
+I have used Docker, GitHub Actions, Helm, and Flux to implement the CI/CD pipeline for my pet project.
+As my latest and greatest achievement, I've deployed an OpenTelemetry monitoring stack consisting of Prometheus, Grafana, and Loki.
+During the period of my DevOps Practices, I've understood and implemented methodologies such as CI/CD, GitOps and IaC.
+Also, I'm a member of the "DevOps Geeks" community, where we collaborate on projects and provide support to each other.
+I'm currently actively expanding my knowledge and expertise in the DevOps domain, I am always open to new connections and always ready to apply my knowledge to real projects.
 <!--
 **gidra39/gidra39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
